@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gw91fZsfwa8YuVeymbd6/0fMPlvmcjh7k+LCvYHcSVmSLC/RCG5+P+B2KlMSfv+pHnUvHul+58fPTEnH4UPfGA==",
+  "dgSpecHash": "DQjCqh+xTp3jAjd3D+L9U+C4FSAkTo5sFSEVzB82lp6tMfM+DQ/sXfp05jMQQTibOjMt6oaaGAK4ZoBdDcU3vQ==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Desktop\\BowlingLeague-master-2\\BowlingLeague\\BowlingLeague.csproj",
+  "projectFilePath": "C:\\Users\\garre\\OneDrive\\Desktop\\BowlingLeague-master-2 2\\BowlingLeague\\BowlingLeague.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\garre\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\BowlingLeague-master-2\\BowlingLeague\\BowlingLeague.csproj": {}
+    "C:\\Users\\garre\\OneDrive\\Desktop\\BowlingLeague-master-2 2\\BowlingLeague\\BowlingLeague.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\BowlingLeague-master-2\\BowlingLeague\\BowlingLeague.csproj": {
+    "C:\\Users\\garre\\OneDrive\\Desktop\\BowlingLeague-master-2 2\\BowlingLeague\\BowlingLeague.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\BowlingLeague-master-2\\BowlingLeague\\BowlingLeague.csproj",
+        "projectUniqueName": "C:\\Users\\garre\\OneDrive\\Desktop\\BowlingLeague-master-2 2\\BowlingLeague\\BowlingLeague.csproj",
         "projectName": "BowlingLeague",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\BowlingLeague-master-2\\BowlingLeague\\BowlingLeague.csproj",
+        "projectPath": "C:\\Users\\garre\\OneDrive\\Desktop\\BowlingLeague-master-2 2\\BowlingLeague\\BowlingLeague.csproj",
         "packagesPath": "C:\\Users\\garre\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\BowlingLeague-master-2\\BowlingLeague\\obj\\",
+        "outputPath": "C:\\Users\\garre\\OneDrive\\Desktop\\BowlingLeague-master-2 2\\BowlingLeague\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garre\\AppData\\Roaming\\NuGet\\NuGet.Config",
