@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Team>
+@*Resets the page to list everything again after filtering.*@
+
+<a class="btn btn-block btn-sm btn-success" asp-action="Index" asp-controller="Home" asp-route-teamID="">Home</a>
+
+@*Allows for filtering of the page using the teamid from the database.*@
+
+@foreach (var x in Model)
+{
+<a class="btn btn-block btn-sm btn-dark @(x.TeamName == ViewBag.SelectedTeamName ? "btn-dark" : "btn-primary")"
+   asp-action="Index"
+   asp-controller="Home"
+   asp-route-teamID="@x.TeamId"
+   asp-route-teamName="@x.TeamName">
+    @x.TeamName
+</a>}
+
+@*
+    For this all to work the components folder needs to be inside of the shared folder. Then inside of the components folder needs to a folder named after what is in the components folder
+    outside of the shared folder. So BowlingTeamViewComponent is taken and used as the BowlingTeam name for the folder in components and then the file inside of that folder needs to be named Default.
+    This is how APS.NET will look for this file and find it so this file path has to be exactly like this!
+*@
